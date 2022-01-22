@@ -1,0 +1,2 @@
+test.py is for testing functionality of the code used to arrange data to be programed to gpio expanders.
+After functionality is verified code is moved to main.py which uses i2c libraries and thus can only be used on a raspberry pi with the GPIO expanders connected
